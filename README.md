@@ -10,7 +10,4 @@
 
 کانفیگی برای دونیت دارید تا در لیست اضافه بشه به ای دی بنده در تلگرام پیام بدید 
 | کانال V2ray | کانال اصلی | پروژه CAA Free Net | کانال ادرس ها |
-|------------|-------------|--------------|---------------|
-| @CAA_V2ray | @CAA_Chanel | @CAA_FreeNet | @CAA_Telegram |
-
-
+| [@CAA_V2ray](https://t.me/caa_v2ray/) | [@CAA_Chanel](https://t.me/caa_chanel/) | [@CAA_FreeNet](https://t.me/caa_freenet) | [@CAA_Telegram](https://t.me/caa_telegram/) |
