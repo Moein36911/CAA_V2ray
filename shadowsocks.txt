@@ -1,3 +1,5 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=b458Ab02.Caa-cHANel-woRkER-page-fReE-jHUiHNujhphjKl-nIHgKjN.PaGes.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=B458ab02.CAA-cHANEL-WoRker-PAgE-FREE-JhuiHnUjHpHJkL-nihgkjn.pAGes.dEV&path=%2FeFSqAvQt9ONCJqsj%3Fed%3D2560#%D8%A8%D9%87%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87%20%D9%85%D8%A7%20%D8%A8%D9%BE%DB%8C%D9%88%D9%86%D8%AF%DB%8C%D8%AF%3A%20%40CAA_Telegram
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40CAA_V2RAY%20%7C%7C%20%40Free1_VPN
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25366#%40CAA_V2ray%20%7C%7C%20%40v2ray1_ng
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@45.145.42.70:25366#%40CAA_V2ray%20%7C%7C%20%40proxy_kafee
