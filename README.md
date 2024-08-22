@@ -9,6 +9,7 @@
 | Vmess: | https://raw.githubusercontent.com/Moein36911/Caa/main/vmess.txt |
 | Wireguard: | https://raw.githubusercontent.com/Moein36911/Caa/main/Wireguaed.txt | 
 | BPB: | https://raw.githubusercontent.com/Moein36911/Caa/main/BPB.txt |
+| Vless: | https://raw.githubusercontent.com/Moein36911/CAA_V2ray/main/vless.txt | 
 
 کانفیگی برای دونیت دارید تا در لیست اضافه بشه به [ای دی بنده](https://t.me/Moein_light) در تلگرام پیام بدید 
 | کانال V2ray | کانال اصلی | پروژه CAA Free Net | کانال ادرس ها |
